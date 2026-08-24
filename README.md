@@ -30,5 +30,4 @@ JARVIS/
 ├── jarvis.py
 ├── requirements.txt
 ├── README.md
-└── assets/
-    └── screenshot.png
+
